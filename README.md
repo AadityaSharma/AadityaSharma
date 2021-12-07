@@ -7,9 +7,9 @@
 <!-- [![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl) -->
 
 
-## 🎓 I'm a Full Stack Software Developer from Hyderabad India.
+## 🎓 I'm a Full Stack Software Developer from Hyderabad, India.
 
-I'm currently working at **FreeAgent Software** and am excited about building products that will serve the next billion.
+I'm currently working at **[FreeAgent Software](https://freeagentcrm.com/)** and am excited about building products that will serve the next billion.
 
 I'm currently open to explore new job opportunities. If you have an exciting job opportunity you'd like to share, feel free to schedule a call with me using [calendly](https://calendly.com/aaditya-sharma/30min) or drop me an email at [hire@aadityasharma.com](mailto:hire@aadityasharma.com).
 - 💬 Ask me about Node.js / TypeScript / React.js / Java
@@ -40,7 +40,7 @@ I'm currently open to explore new job opportunities. If you have an exciting job
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp; -->
 
-## 🏆 My GitHub Stats
+## 🏆 GitHub Stats
 
 
 [![](https://raw.githubusercontent.com/AadityaSharma/AadityaSharma/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
