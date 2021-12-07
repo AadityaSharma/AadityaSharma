@@ -1,13 +1,9 @@
 ## Hello, folks! <img src="https://github.com/AadityaSharma/AadityaSharma/blob/main/wave.gif" align="top" width="30px">
-<img src="https://komarev.com/ghpvc/?username=AadityaSharma&label=Profile Views&color=blue&style=flat" alt="AadityaSharma" />
-
+<img src="https://komarev.com/ghpvc/?username=AadityaSharma&label=Profile Views&color=blue&style=flat" alt="AadityaSharma" /> [![Twitter Badge](https://img.shields.io/badge/-@AadityaSharma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/aadityaofficial) [![Linkedin Badge](https://img.shields.io/badge/-Aaditya%20Sharma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityasharma/) [![Youtube Badge](https://img.shields.io/badge/-Aaditya-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-RbhG5ocqf4S1xjDBEVc9A)
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-AadityaSharma-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/AadityaSharma)-->
-[![Twitter Badge](https://img.shields.io/badge/-@AadityaSharma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/aadityaofficial)
 <!-- [![Discord Badge](https://img.shields.io/badge/AadityaSharma-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/AadityaSharma) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Aaditya%20Sharma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityasharma/)
 <!-- [![Mail Badge](https://img.shields.io/badge/-aaditya.clicks-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aaditya.clicks@gmail.com) -->
-[![Youtube Badge](https://img.shields.io/badge/-Aaditya-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-RbhG5ocqf4S1xjDBEVc9A)
 <!-- [![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl) -->
 
 
