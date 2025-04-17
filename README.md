@@ -50,8 +50,8 @@ I'm currently open to explore new job opportunities. If you have an exciting job
 <!-- ## :zap: Recent Activity -->
 
 <!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-2. ❗️ Opened issue [#28](https://github.com/Amegma/Space-Invaders/issues/28) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+1. 🎉 Merged PR [#1](https://github.com/AadityaSharma/RFA/pull/1) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+2. 💪 Opened PR [#1](https://github.com/AadityaSharma/RFA/pull/1) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
 3. ❗️ Opened issue [#27](https://github.com/Amegma/Space-Invaders/issues/27) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
 4. ❗️ Closed issue [#26](https://github.com/Amegma/Space-Invaders/issues/26) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
 5. 🗣 Commented on [#17](https://github.com/AadityaSharma/Stackoverflow-Clone-Backend/issues/17) in [AadityaSharma/Stackoverflow-Clone-Backend](https://github.com/AadityaSharma/Stackoverflow-Clone-Backend) -->
