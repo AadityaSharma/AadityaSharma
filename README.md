@@ -50,9 +50,9 @@ I'm currently open to explore new job opportunities. If you have an exciting job
 <!-- ## :zap: Recent Activity -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AadityaSharma/RFA/pull/1) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
-2. 💪 Opened PR [#1](https://github.com/AadityaSharma/RFA/pull/1) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
-3. ❗️ Opened issue [#27](https://github.com/Amegma/Space-Invaders/issues/27) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
-4. ❗️ Closed issue [#26](https://github.com/Amegma/Space-Invaders/issues/26) in [Amegma/Space-Invaders](https://github.com/Amegma/Space-Invaders)
+1. 🎉 Merged PR [#2](https://github.com/AadityaSharma/RFA/pull/2) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+2. 💪 Opened PR [#2](https://github.com/AadityaSharma/RFA/pull/2) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+3. 🎉 Merged PR [#1](https://github.com/AadityaSharma/RFA/pull/1) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+4. 💪 Opened PR [#1](https://github.com/AadityaSharma/RFA/pull/1) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
 5. 🗣 Commented on [#17](https://github.com/AadityaSharma/Stackoverflow-Clone-Backend/issues/17) in [AadityaSharma/Stackoverflow-Clone-Backend](https://github.com/AadityaSharma/Stackoverflow-Clone-Backend) -->
 <!--END_SECTION:activity-->
