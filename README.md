@@ -50,9 +50,9 @@ I'm currently open to explore new job opportunities. If you have an exciting job
 <!-- ## :zap: Recent Activity -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/AadityaSharma/RFA/pull/47) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
-2. 💪 Opened PR [#47](https://github.com/AadityaSharma/RFA/pull/47) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
-3. 🎉 Merged PR [#5](https://github.com/AadityaSharma/RFA/pull/5) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
-4. 💪 Opened PR [#5](https://github.com/AadityaSharma/RFA/pull/5) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
-5. 🎉 Merged PR [#4](https://github.com/AadityaSharma/RFA/pull/4) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+1. 🎉 Merged PR [#48](https://github.com/AadityaSharma/RFA/pull/48) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+2. 💪 Opened PR [#48](https://github.com/AadityaSharma/RFA/pull/48) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+3. 🎉 Merged PR [#47](https://github.com/AadityaSharma/RFA/pull/47) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+4. 💪 Opened PR [#47](https://github.com/AadityaSharma/RFA/pull/47) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
+5. 🎉 Merged PR [#5](https://github.com/AadityaSharma/RFA/pull/5) in [AadityaSharma/RFA](https://github.com/AadityaSharma/RFA)
 <!--END_SECTION:activity-->
